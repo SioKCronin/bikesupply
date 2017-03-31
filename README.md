@@ -1,4 +1,4 @@
-# bikesupply
+# Bike Supply
 
 [IN PROGRESS]
 
