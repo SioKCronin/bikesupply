@@ -1,6 +1,6 @@
 # Bike Supply
 
-Bike Supply is a PyMC3-driven Bayesian predictive model of an urban bike share company's supply-demand dynamics. 
+Bike Supply is a Bayesian predictive model of Bay Area Bike Share's supply-demand dynamics. 
 
 ## Goal
 
