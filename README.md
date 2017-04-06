@@ -10,7 +10,7 @@ The goal of this project is to build model that predicts number of bikes that wi
 
 Bike sharing programs reshuffle their supply to ensure bikes and docking stations are available throughout the day. This is typically carried out by a street team (and a mighty van). If it were possible to predict with some level of accuracy where bikes will be moving throughout the day, we could better optimize this reshuffling, especially during peak use times. 
 
-## Model specs
+## Model overview
 
 Updated priors from today's bike rentals are used to adjust posterior distributions of today's arrivals
 
