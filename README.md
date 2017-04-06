@@ -22,5 +22,9 @@ In a perfect world, all bikes will arrive at the stations they are most needed i
 
 ## Data
 
-Development and validation was made possible by the data genersoity of Bay Area Bike Share and Hubway.  
+This model is being developed and validated with open data from Bay Area Bike Share. 
+
+My hope is to tune this model to other ![cities](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems). But first things first, let's get this thing working. 
+
+
 
