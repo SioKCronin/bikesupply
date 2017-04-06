@@ -8,9 +8,7 @@ The goal of this project is to build model that predicts number of bikes that wi
 
 ## Business problem 
 
-Bike sharing problems must reshuffle their supply to ensure bikes and docking stations are available throughout the day. 
-
-In a perfect world, all bikes will arrive at the stations they are most needed in advance of their next renter needing them. However, the world is not yet perfect, and bike sharing companies must invest time and money on determining the best bike reshuffling protocols to ensure optimum supply at all stations. 
+Bike sharing programs reshuffle their supply to ensure bikes and docking stations are available throughout the day. This is typically carried out by a street team (and a mighty van). If it were possible to predict with some level of accuracy where bikes will be moving throughout the day, we could better optimize this reshuffling, especially during peak use times. 
 
 ## Model specs
 
