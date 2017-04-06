@@ -1,6 +1,6 @@
 # Bike Supply
 
-Bike Supply is a Bayesian predictive model of Bay Area Bike Share's supply-demand dynamics. 
+Bike Supply is an exploration of predictive models of bike sharing supply-demand dynamics, made possible by the generous data sharing of Bay Area Bike Share. 
 
 ## Goal
 
