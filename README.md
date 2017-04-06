@@ -12,13 +12,9 @@ Bike sharing problems must reshuffle their supply to ensure bikes and docking st
 
 In a perfect world, all bikes will arrive at the stations they are most needed in advance of their next renter needing them. However, the world is not yet perfect, and bike sharing companies must invest time and money on determining the best bike reshuffling protocols to ensure optimum supply at all stations. 
 
-## Models
+## Model specs
 
-* Network Unaware: Predictions of supply dynamics based on historic data
-
-* Network Aware: Predictions of supply dynamics based on historic data plus state data from that day. 
-
-* Bayesian Model: Updated priors from today's bike rentals used to adjust posterior distributions of today's arrivals
+Updated priors from today's bike rentals are used to adjust posterior distributions of today's arrivals
 
 ## Data
 
