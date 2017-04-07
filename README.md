@@ -4,7 +4,7 @@ Bike Supply is a Bayesian predictive model of bike sharing supply-demand dynamic
 
 ## Goal
 
-The goal of this project is to build model that predicts number of bikes that will enter each station in the network in the next two hours. 
+The goal of this project is to build a model that predicts the number of bikes that will enter each station in the network within the next two hours. 
 
 ## Business problem 
 
