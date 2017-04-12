@@ -1,6 +1,6 @@
 # Bike Supply
 
-Bike Supply is a Bayesian predictive model of bike sharing supply-demand dynamics.
+Bike Supply is a collection of predictive models of bike sharing supply-demand dynamics.
 
 ## Goal
 
