@@ -1,6 +1,6 @@
 # Bike Supply
 
-Bike Supply is a collection of predictive models of bike sharing supply-demand dynamics.
+Bike Supply predicts bike sharing supply demands based on activity in the network. 
 
 ## Overview
 
