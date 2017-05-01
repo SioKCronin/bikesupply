@@ -14,7 +14,7 @@ The modeling process followed the following development:
 
 * EDA 
 * Historical averages as point estimates
-* Traditional GLMs
+* Traditional GLM
 * Conditional probability binning
 * Bayes updating
 
