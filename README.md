@@ -14,10 +14,9 @@ The modeling process followed the following development:
 
 * EDA 
 * Historical averages as point estimates
-* Polynomial regressoin 
+* Traditional GLMs
 * Conditional probability binning
-* Time estimation with conditional probability binning
-* Bayesian regression
+* Bayes updating
 
 ## Validation
 
