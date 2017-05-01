@@ -1,6 +1,6 @@
 # Bike Supply
 
-Bike Supply predicts bike sharing supply demands based on activity in the network. 
+Bike Supply predicts bike supply based on activity in bike sharing networks.  
 
 ## Overview
 
