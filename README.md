@@ -21,4 +21,4 @@ The modeling process followed the following development:
 
 ## Validation
 
-These models are being developed and validated with open data from [Bay Area Bike Share](http://www.bayareabikeshare.com/open-data). My hope is to tune this model to other [cities](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems).
+These models are being developed and validated with open data from [Bay Area Bike Share](http://www.bayareabikeshare.com/open-data). My hope is to, in time, tune this model to data from other [cities](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems).
